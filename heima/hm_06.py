@@ -16,3 +16,5 @@ elif holiday_name == "生日":
 # 其他的日志应该都是节日啊
 else:
     print("每天都是节日")
+
+    print("ceshi")
