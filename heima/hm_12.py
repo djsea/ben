@@ -11,3 +11,4 @@ sum_result = sum_2_num(10, 15)
 # 可以使用变量，来接收函数执行的返回的结果
 
 print("计算结果： %d" % sum_result)
+print()
